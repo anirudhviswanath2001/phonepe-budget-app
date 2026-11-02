@@ -1,0 +1,18 @@
+# Personal financial data
+*.pdf
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
